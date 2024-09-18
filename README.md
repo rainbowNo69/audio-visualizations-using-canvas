@@ -1,3 +1,3 @@
 #音频可视化
-canvas
+使用 canvas 实现音频可视化
 ![alt text](image.png)
